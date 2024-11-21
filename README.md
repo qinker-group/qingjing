@@ -72,7 +72,7 @@
 
 ---
 
-## 使用方法
+## 使用方法(尚未实现)
 ```bash
 npx qingjing projectName --domain https://qinker.net --language en-US
 
