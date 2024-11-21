@@ -69,6 +69,21 @@
 
 ---
 
+
+---
+
+## 使用方法
+```bash
+npx qingjing projectName --domain https://qinker.net --language en-US
+
+cd projectName
+
+npm run dev
+
+```
+
+---
+
 ## 注意事项
 
 1. **合法性与合规性**  
